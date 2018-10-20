@@ -1,1 +1,1 @@
-THIS IS A README FILE.
+This is the back-end repository of Utility Data Viewer.
